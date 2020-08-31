@@ -1,0 +1,14 @@
+{"database":"wise_01",
+ "table":"allwise_p3as_psd",
+ "overlap":0,
+ "index":"idx_dec",
+ "spec":"DEFAULT",
+ "comment":"The index for optimizing spatial queries",
+ "columns":[
+   {"column":"dec",
+    "length":0,
+    "ascending":1
+   }
+ ],
+ "auth_key":"***"
+}
